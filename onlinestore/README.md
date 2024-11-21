@@ -1,2 +1,0 @@
-# RestShopApi
-Homework Repository
